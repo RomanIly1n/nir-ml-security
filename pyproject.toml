@@ -1,0 +1,14 @@
+[project]
+name = "nir-ml-security"
+version = "0.1.0"
+description = "Research project on datasets and benchmarks for ML-based network attack detection"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "pandas>=2.2,<3.0",
+    "numpy>=1.26,<3.0",
+    "matplotlib>=3.8,<4.0",
+    "jupyterlab>=4.0,<5.0",
+]
+
+[dependency-groups]
+dev = []

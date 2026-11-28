@@ -26,3 +26,6 @@ data/processed/*
 *.log
 .DS_Store
 Thumbs.db
+
+# IDE
+.idea/
